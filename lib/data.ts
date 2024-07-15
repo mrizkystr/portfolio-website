@@ -43,7 +43,7 @@ export const experiencesData = [
     date: "2013 - 2019",
   },
   {
-    title: "SMPN 7 Padalarang",
+    title: "SMPN 7 Paledang",
     location: "Bogor, Indonesia",
     description:
       "Saya bersekolah di SMPN ini selama 3 tahun dan lulus pada tahun 2022",
