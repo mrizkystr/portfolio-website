@@ -68,6 +68,7 @@ export const projectsData = [
       "Saya sebagai Back-end Developer membantu kelompok saya untuk membuat sebuah program Piket yang dapat membantu sekolah",
     tags: ["React", "Laravel", "MySQL", "Tailwind"],
     imageUrl: siPiketImg,
+    link: "", 
   },
   {
     title: "Barangin E-commerce",
