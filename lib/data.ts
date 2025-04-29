@@ -4,7 +4,8 @@ import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
 import siPiketImg from "@/public/siPiket.jpg";
 import rmtdevImg from "@/public/rmtdev.png";
-import wordanalyticsImg from "@/public/wordanalytics.png";
+import BaranginLogoImg from "@/public/BaranginLogo.jpeg";
+
 
 export const links = [
   {
@@ -65,10 +66,19 @@ export const projectsData = [
     title: "Sistem Informasi Piket",
     description:
       "Saya sebagai Back-end Developer membantu kelompok saya untuk membuat sebuah program Piket yang dapat membantu sekolah",
-    tags: ["React", "Laravel", "MySQL", "Tailwind", ],
+    tags: ["React", "Laravel", "MySQL", "Tailwind"],
     imageUrl: siPiketImg,
   },
+  {
+    title: "Barangin E-commerce",
+    description:
+      "Saya sebagai Back-end Developer membantu kelompok saya untuk membuat sebuah Api yang dapat membantu pengguna untuk membeli barang",
+    tags: ["React", "Node-Js", "MySQL", "Material-UI"],
+    imageUrl: BaranginLogoImg,
+    link: "https://barangin.vercel.app/",
+  },
 ] as const;
+
 
 export const skillsData = [
   "HTML",

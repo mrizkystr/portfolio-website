@@ -66,7 +66,7 @@ export default function Intro() {
         Saya Seorang <span className="font-bold">Back-end developer</span>
         <span className="font-bold"></span>
         <span className="italic"></span>. Focus saya dalam bidang ini yaitu{" "}
-        <span className="underline">PHP (Laravel)</span>.
+        <span className="underline">Node (Express)</span>.
       </motion.h1>
 
       <motion.div

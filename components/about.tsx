@@ -29,7 +29,7 @@ export default function About() {
       </p>
       <ul className="text-left ml-auto mr-auto max-w-[20rem] list-disc">
         <li>
-          Umur saya: <span className="font-medium">17 tahun</span>
+          Umur saya: <span className="font-medium">18 tahun</span>
         </li>
         <li>
           Email saya:{" "}
