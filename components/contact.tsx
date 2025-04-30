@@ -32,9 +32,9 @@ export default function Contact() {
       <SectionHeading>Contact me</SectionHeading>
 
       <p className="text-gray-700 -mt-6 dark:text-white/80">
-        Jika ada masalah atau keluhan bisa kontak saya ke alamat email ini{" "}
-        <a className="underline" href="mailto:example@gmail.com">
-          muhamadrizkysatria23@gmail.com
+        Jika ada yang ingin diketahui lebih lanjut bisa kontak saya ke alamat email ini{" "}
+        <a className="underline" href="muhamadrizkysatria06@gmail.com">
+          muhamadrizkysatria06@gmail.com
         </a>{" "}
       </p>
     </motion.section>

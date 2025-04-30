@@ -22,8 +22,8 @@ export default function About() {
         Saya seorang siswa dari sekolah{" "}
         <span className="font-medium">SMKN 1 Ciomas</span> yang bernama{" "}
         <span className="font-medium">Muhamad Rizky Satria</span>. Saya juga
-        seorang <span className="font-medium">back-end developer</span>. Saya
-        memilih jurusan ini agar saya dapat mengembangkan skill back end saya
+        seorang <span className="font-medium">Back-End Developer</span>. Saya
+        memilih jurusan ini agar saya dapat mengembangkan skill saya dalam pembuatan sebuah website
         dan juga dapat menjadi ahli di bidang IT. Berikut adalah informasi
         tentang saya:
       </p>

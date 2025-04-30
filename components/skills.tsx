@@ -66,7 +66,7 @@ export default function Skills() {
 
       <SkillCategory title="Programming Languages" skills={programmingLanguages} />
       <SkillCategory title="Databases" skills={databases} />
-      <SkillCategory title="Frameworks & Runtime" skills={frameworksRuntime} />
+      <SkillCategory title="Frameworks" skills={frameworksRuntime} />
     </section>
   );
 }

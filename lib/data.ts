@@ -39,7 +39,7 @@ export const experiencesData = [
     title: "SD Purbasari",
     location: "Bogor, Indonesia",
     description:
-      "Saya Bersekolah selama 6 tahun dan juga lulus pada tahun 2019",
+      "Saya menempuh pendidikan dasar selama 6 tahun dan lulus pada tahun 2019.",
     icon: React.createElement(LuGraduationCap),
     date: "2013 - 2019",
   },
@@ -47,7 +47,7 @@ export const experiencesData = [
     title: "SMPN 7 Paledang",
     location: "Bogor, Indonesia",
     description:
-      "Saya bersekolah di SMPN ini selama 3 tahun dan lulus pada tahun 2022",
+      "Saya melanjutkan ke jenjang SMP selama 3 tahun dan lulus pada tahun 2022.",
     icon: React.createElement(LuGraduationCap),
     date: "2019 - 2022",
   },
@@ -55,9 +55,9 @@ export const experiencesData = [
     title: "SMKN 1 Ciomas",
     location: "Ciomas, Indonesia",
     description:
-      "Saya bersekolah di SMKN 1 Ciomas selama 3 tahun dan akan melaksanakan PKL selama 6 bulan",
+      "Saya saat ini menempuh pendidikan di SMKN 1 Ciomas jurusan RPL, dan telah melaksanakan PKL selama 6 bulan.",
     icon: React.createElement(LuGraduationCap),
-    date: "2022 - present",
+    date: "2022 - Sekarang",
   },
 ] as const;
 
