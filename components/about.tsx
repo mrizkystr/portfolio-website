@@ -33,7 +33,7 @@ export default function About() {
         </li>
         <li>
           Email saya:{" "}
-          <span className="font-medium">muhamadrizkysatria23@gmail.com</span>
+          <span className="font-medium">muhamadrizkysatria06@gmail.com</span>
         </li>
         <li>
           No telp saya: <span className="font-medium">085216929088</span>

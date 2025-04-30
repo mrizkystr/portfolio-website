@@ -81,16 +81,22 @@ export const projectsData = [
 ] as const;
 
 
-export const skillsData = [
-  "HTML",
-  "CSS",
+export const programmingLanguages = [
   "JavaScript",
-  "Node.js",
-  "Git",
-  "CodeIgniter",,
-  "Express",
-  "MySQL",
-  "Python",
   "PHP",
-  "Lavarel",
+  "Python",
 ] as const;
+
+export const databases = [
+  "MySQL",
+  "PostgreSQL",
+] as const;
+
+export const frameworksRuntime = [
+  "Laravel",
+  "Express",
+  "React",
+  "Node.js",
+  "CodeIgniter",
+] as const;
+
