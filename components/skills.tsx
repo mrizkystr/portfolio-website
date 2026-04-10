@@ -6,6 +6,7 @@ import {
   programmingLanguages,
   databases,
   frameworksRuntime,
+  devOpstools,
 } from "@/lib/data";
 import { useSectionInView } from "@/lib/hooks";
 import { motion } from "framer-motion";
@@ -67,6 +68,7 @@ export default function Skills() {
       <SkillCategory title="Programming Languages" skills={programmingLanguages} />
       <SkillCategory title="Databases" skills={databases} />
       <SkillCategory title="Frameworks" skills={frameworksRuntime} />
+      <SkillCategory title="DevOps Tools" skills={devOpstools} />
     </section>
   );
 }

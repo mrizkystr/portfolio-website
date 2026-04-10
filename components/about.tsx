@@ -19,17 +19,17 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        Saya seorang siswa dari sekolah{" "}
-        <span className="font-medium">SMKN 1 Ciomas</span> yang bernama{" "}
+        Saya seorang Mahasiswa dari Universitas{" "}
+        <span className="font-medium">Pamulang</span> yang bernama{" "}
         <span className="font-medium">Muhamad Rizky Satria</span>. Saya juga
-        seorang <span className="font-medium">Back-End Developer</span>. Saya
+        seorang <span className="font-medium">Fullstack Developer</span>. Saya
         memilih jurusan ini agar saya dapat mengembangkan skill saya dalam pembuatan sebuah website
         dan juga dapat menjadi ahli di bidang IT. Berikut adalah informasi
         tentang saya:
       </p>
       <ul className="text-left ml-auto mr-auto max-w-[20rem] list-disc">
         <li>
-          Umur saya: <span className="font-medium">18 tahun</span>
+          Umur saya: <span className="font-medium">19 tahun</span>
         </li>
         <li>
           Email saya:{" "}

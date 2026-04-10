@@ -63,10 +63,10 @@ export default function Intro() {
         animate={{ opacity: 1, y: 0 }}
       >
         <span className="font-bold">Hello, Saya Muhamad Rizky Satria.</span>{" "}
-        Saya Seorang <span className="font-bold">Back-end developer</span>
+        Saya Seorang <span className="font-bold">Fullstack Developer</span>
         <span className="font-bold"></span>
         <span className="italic"></span>. Focus saya dalam bidang ini yaitu{" "}
-        <span className="underline">Node (Express)</span>.
+        <span className="underline">React dan Node(Express)</span>
       </motion.h1>
 
       <motion.div
@@ -100,7 +100,7 @@ export default function Intro() {
 
         <a
           className="bg-white p-4 text-gray-700 hover:text-gray-950 flex items-center gap-2 rounded-full focus:scale-[1.15] hover:scale-[1.15] active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10 dark:text-white/60"
-          href="https://www.linkedin.com/in/muhamad-rizky-satria-78a8182a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app "
+          href="https://www.linkedin.com/in/muhamad-rizky-satria-475b37362?utm_source=share_via&utm_content=profile&utm_medium=member_android"
           target="_blank"
         >
           <BsLinkedin />
